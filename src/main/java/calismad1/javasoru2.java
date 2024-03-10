@@ -46,6 +46,11 @@ public class javasoru2 {
         System.out.println(sorhedPart);
         System.out.println(part2);
         System.out.println(sorhedPart2);
+        // versiyon2
 
+        System.out.println("bugra");
+        System.out.println("bugra");
+        System.out.println("bugra");
+        System.out.println("bugra");
     }
 }
